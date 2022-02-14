@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+.header {
+    font-size: 40px;
+    color: red;
+    margin: 24px;
+}
+.nav {
+    color: purple;
+    word-spacing: 15px;
+}
+.purple-text {
+    color: purple;
+}
+.yellow-text {
+    color: goldenrod;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+li {
+    list-style-position:inside;
+}
+.sola, .yellow-text1 {
+    text-align: left;
+}
+.yellow-text1 {
+    color: goldenrod;
+}
+img {
+    width: 200px;
+}

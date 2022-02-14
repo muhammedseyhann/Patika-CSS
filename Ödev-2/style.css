@@ -1,0 +1,29 @@
+* {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0 auto;
+    font-size: 16px;
+}
+
+#logo {
+    display: block;
+}
+
+table tr li {
+    list-style: none;
+    text-align:center;
+}
+
+.small {
+    font-size: 13px;
+}
+
+input[type="text"] {
+    display: inline-block;
+    width: 317px;
+    height:21px;
+    font-size: 13px;
+}
+
+a {
+    color: blue;
+}
